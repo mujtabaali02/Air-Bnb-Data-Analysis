@@ -1,5 +1,6 @@
 # Air-BNB-Data-Analysis
-![zir](https://user-images.githubusercontent.com/74107667/196474945-3b5e81a2-a2e6-40e3-b5e4-5995a3bab0c5.png)
+
+![caps](https://user-images.githubusercontent.com/74107667/196483864-db7263ff-d26c-4efd-94ec-433c21da2c24.PNG)
 
 Airbnb, Inc., based in San Francisco, California, operates an online marketplace focused on short-term homestays and experiences. The company acts as a broker and charges a commission from each booking. The company was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia.
 
@@ -7,3 +8,4 @@ Airbnb, Inc., based in San Francisco, California, operates an online marketplace
 
 •	Airbnb offers around 6 million places to stay in throughout the world. At any given time, guests book 1.9 million listings in Airbnb.
 
+DATASET : https://drive.google.com/file/d/1GzN6BNG4eWS4p_9aH6sJlMAAOZQEUgSt/view?usp=sharing
